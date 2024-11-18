@@ -162,7 +162,7 @@ m_df = m_df.drop(columns=['shape_check'])
 # Renaming columns, preparing to save final files
 m_df = m_df.rename(columns={'datetime':'observation_datestamp','country':'country_id','shape':'shape_type','duration (seconds)':'duration_in_sec','duration (hours/min)':'duration_string','state':'state_id','date posted':'date_posted'})
 m_df.to_csv(r'data/complete_cleaned.csv',sep=';')
-m_df.to_parquet(r'data/complete_cleaned')
+m_df.to_parquet(r'data/complete_cleaned.parquet')
 
 
 
