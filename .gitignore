@@ -3,3 +3,6 @@
 .ufo/share/
 .ufo/include/
 .ipynb_checkpoints/
+.ufo/Scripts/
+
+.ufo/pyvenv.cfg
