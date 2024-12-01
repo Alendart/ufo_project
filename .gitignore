@@ -4,5 +4,6 @@
 .ufo/include/
 .ipynb_checkpoints/
 .ufo/Scripts/
+.vs/
 
 .ufo/pyvenv.cfg
