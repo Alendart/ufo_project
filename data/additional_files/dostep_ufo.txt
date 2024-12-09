@@ -1,0 +1,2 @@
+login: UFO_2024_user
+hasło: ufo_12_pracadyplom_24!
