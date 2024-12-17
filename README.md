@@ -40,7 +40,7 @@ To set up proper enviroment follow below rules
 ```
 - Install dependecies
 ```bash
-  pip install datetime pandas jupyterlab pycountry openpyxl
+  pip install datetime pandas jupyterlab pycountry openpyxl geopy scipy tqdm geopandas csvkit shapely pyproj
 ```
 - Run Jupyter Lab 
 ```bash
