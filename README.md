@@ -1,6 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+![ufo_project_logo](https://github.com/user-attachments/assets/3e16710a-d3f5-4867-b012-deff66b31d45)
 
 # UFO Analysis
 
